@@ -1,5 +1,5 @@
 # PATH-TRACING
-cd SIMD
-mkdir build
-cmake ..
-make
+cd SIMD;
+mkdir build;
+cmake ..;
+make;
